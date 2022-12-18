@@ -1,0 +1,28 @@
+C:\Users\alex\Documents\Visual Studio 2012\Projects\s5064791\letter_sh\letter_sh\bin\Debug\letter_sh.exe.config
+C:\Users\alex\Documents\Visual Studio 2012\Projects\s5064791\letter_sh\letter_sh\bin\Debug\letter_sh.exe
+C:\Users\alex\Documents\Visual Studio 2012\Projects\s5064791\letter_sh\letter_sh\bin\Debug\letter_sh.pdb
+C:\Users\alex\Documents\Visual Studio 2012\Projects\s5064791\letter_sh\letter_sh\bin\Debug\OpenTK.dll
+C:\Users\alex\Documents\Visual Studio 2012\Projects\s5064791\letter_sh\letter_sh\bin\Debug\OpenTK.GLControl.dll
+C:\Users\alex\Documents\Visual Studio 2012\Projects\s5064791\letter_sh\letter_sh\bin\Debug\OpenTK.pdb
+C:\Users\alex\Documents\Visual Studio 2012\Projects\s5064791\letter_sh\letter_sh\bin\Debug\OpenTK.xml
+C:\Users\alex\Documents\Visual Studio 2012\Projects\s5064791\letter_sh\letter_sh\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\alex\Documents\Visual Studio 2012\Projects\s5064791\letter_sh\letter_sh\bin\Debug\OpenTK.GLControl.xml
+C:\Users\alex\Documents\Visual Studio 2012\Projects\s5064791\letter_sh\letter_sh\obj\Debug\letter_sh.csprojResolveAssemblyReference.cache
+C:\Users\alex\Documents\Visual Studio 2012\Projects\s5064791\letter_sh\letter_sh\obj\Debug\letter_sh.Form1.resources
+C:\Users\alex\Documents\Visual Studio 2012\Projects\s5064791\letter_sh\letter_sh\obj\Debug\letter_sh.Properties.Resources.resources
+C:\Users\alex\Documents\Visual Studio 2012\Projects\s5064791\letter_sh\letter_sh\obj\Debug\letter_sh.csproj.GenerateResource.Cache
+C:\Users\alex\Documents\Visual Studio 2012\Projects\s5064791\letter_sh\letter_sh\obj\Debug\letter_sh.exe
+C:\Users\alex\Documents\Visual Studio 2012\Projects\s5064791\letter_sh\letter_sh\obj\Debug\letter_sh.pdb
+C:\Users\tshyb\Desktop\letter_sh\letter_sh\bin\Debug\letter_sh.exe.config
+C:\Users\tshyb\Desktop\letter_sh\letter_sh\bin\Debug\letter_sh.exe
+C:\Users\tshyb\Desktop\letter_sh\letter_sh\bin\Debug\letter_sh.pdb
+C:\Users\tshyb\Desktop\letter_sh\letter_sh\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\tshyb\Desktop\letter_sh\letter_sh\bin\Debug\OpenTK.GLControl.xml
+C:\Users\tshyb\Desktop\letter_sh\letter_sh\obj\Debug\letter_sh.csproj.AssemblyReference.cache
+C:\Users\tshyb\Desktop\letter_sh\letter_sh\obj\Debug\letter_sh.Form1.resources
+C:\Users\tshyb\Desktop\letter_sh\letter_sh\obj\Debug\letter_sh.Properties.Resources.resources
+C:\Users\tshyb\Desktop\letter_sh\letter_sh\obj\Debug\letter_sh.csproj.GenerateResource.cache
+C:\Users\tshyb\Desktop\letter_sh\letter_sh\obj\Debug\letter_sh.csproj.CoreCompileInputs.cache
+C:\Users\tshyb\Desktop\letter_sh\letter_sh\obj\Debug\letter_sh.csproj.CopyComplete
+C:\Users\tshyb\Desktop\letter_sh\letter_sh\obj\Debug\letter_sh.exe
+C:\Users\tshyb\Desktop\letter_sh\letter_sh\obj\Debug\letter_sh.pdb
